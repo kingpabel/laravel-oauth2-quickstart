@@ -5,8 +5,7 @@ This is an laravel web application with oauth2 authenticate service.Here i creat
 
 ## How to start
 
-To start first `git clone` and that run `composer install` then
- `php artisan make:auth` then `php artisan vendor:publish` then `php artisan migrate` then 
+To start first `git clone` and that run `composer install` then `php artisan migrate` then 
  `php artisan db:seed` after running all this configuration is done.
  
 ## How to authenticate
